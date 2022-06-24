@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon, AKA Build-It Bear! 
 - 👀 I’m currently looking for job opportunities in Front End Web Development, aiming to specialize in React web apps. I also have budding but largely unexplored interests in Mobile Development on iOS and Linux. As a soft skill bonus, I have excellent interpersonal skills coupled with an upbeat, can-do attitude!
-- 🌱 I’m currently expanding my knowledge of React and SASS/SCSS.
+- 🌱 I’m currently expanding my knowledge of Ember, React, and SASS/SCSS.
 - 💞️ I love honing my web engineering skills in Javascript and also enjoy opportunities to fashion elegant UIs through CSS. My long-term goal for now is to someday becaome a full-stack web developer once I've gotten more experience on the back end.
 - 📫 You can reach me at brandon.nan.chavez@gmail.com or on LinkedIn at https://www.linkedin.com/in/builditbear/.
